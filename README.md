@@ -6,22 +6,22 @@
 
 ## 结构图
 
-![a](img\a.png)
+![a](img/a.png)
 
 ## 交互流程图
 
 ### 用户注册交互
 
-![b](img\b.png)
+![b](img/b.png)
 
 ### 分享中心交互
 
-![c](img\c.png)
+![c](img/c.png)
 
 ## 功能结构图
 ### 用户中心
 
-![d](img\d.png)
+![d](img/d.png)
 
 ### 钱包中心
 
