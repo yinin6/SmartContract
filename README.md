@@ -6,17 +6,17 @@
 
 ## 结构图
 
-![a.drawio](img\a.drawio.png)
+![a.drawio](img\a.png)
 
 ## 交互流程图
 
 ### 用户注册交互
 
-![a.drawio](img\b.drawio.png)
+![a.drawio](img\b.png)
 
 ### 分享中心交互
 
-![](img\c.drawio.png)
+![](img\c.png)
 
 ## 功能结构图
 ### 用户中心
@@ -25,7 +25,7 @@
 
 ### 钱包中心
 
-![f.drawio](img/f.drawio.png)
+![f.drawio](img/f.png)
 
 ### 分享中心
 
